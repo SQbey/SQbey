@@ -1,5 +1,5 @@
 <h1 align="center" style="color:#00E5FF; font-family: monospace;">
-  SQ225
+  SQbey
 </h1>
 
 <p align="center">
