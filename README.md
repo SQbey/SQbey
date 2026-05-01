@@ -12,11 +12,37 @@
 
 ---
 
+### 👤 Profile
+<p align="center">
+  <img src="https://github.com/SQbey.png" width="120" style="border-radius:50%" />
+</p>
+
+---
+
 ### 🚀 About Me
-- 💻 Developer & Tech Enthusiast  
+- 💻 Developer & Bot Systems  
 - 🐧 Kali Linux User  
-- ⚡ Backend & Bot Systems  
 - 🔒 Cyber Security Interested  
+- 🌐 Owner @ ElitClub  
+
+---
+
+### 🌐 My Platform
+<p align="center">
+  <a href="https://www.elitclub.store/">
+    <img src="https://img.shields.io/badge/Website-ElitClub-00E5FF?style=for-the-badge&logo=google-chrome" />
+  </a>
+  <a href="https://discord.gg/elitclub">
+    <img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord" />
+  </a>
+</p>
+
+---
+
+### 💬 Discord Info
+<p align="center">
+  <img src="https://lanyard.cnrad.dev/api/379406414856060942?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=10px" />
+</p>
 
 ---
 
@@ -39,13 +65,4 @@
 ### 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-### 🌐 Connect With Me
-<p align="center">
-  <a href="https://github.com/SQbey">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
-  </a>
 </p>
