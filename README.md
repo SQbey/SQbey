@@ -3,18 +3,18 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="750"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00E5FF&center=true&vCenter=true&width=650&lines=SQbey+Presents...;Kali+Linux+User;Developer+%7C+Cyber+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=00E5FF&center=true&vCenter=true&width=600&lines=SQbey+Presents...;Kali+Linux+User;Developer+%7C+Cyber+Enthusiast" />
 </h3>
 
 ---
 
 ### 👤 Profile
 <p align="center">
-  <img src="https://github.com/SQbey.png" width="120" style="border-radius:50%" />
+  <img src="https://github.com/SQbey.png" width="110" style="border-radius:50%" />
 </p>
 
 ---
@@ -30,18 +30,20 @@
 ### 🌐 My Platform
 <p align="center">
   <a href="https://www.elitclub.store/">
-    <img src="https://img.shields.io/badge/Website-ElitClub-00E5FF?style=for-the-badge&logo=google-chrome" />
+    <img src="https://img.shields.io/badge/Website-ElitClub-00E5FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://discord.gg/elitclub">
-    <img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord" />
+    <img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 💬 Discord Info
+### 💬 Discord
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/379406414856060942?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=10px" />
+  <a href="https://discord.gg/elitclub">
+    <img src="https://img.shields.io/badge/Join%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -55,9 +57,9 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SQbey&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SQbey&show_icons=true&theme=tokyonight&hide_border=true" width="450"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SQbey&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=SQbey&theme=tokyonight&hide_border=true" width="450"/>
 </p>
 
 ---
