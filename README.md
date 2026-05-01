@@ -3,27 +3,26 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
 </p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=00E5FF&center=true&vCenter=true&width=600&lines=SQbey+Presents...;Kali+Linux+User;Developer+%7C+Cyber+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00E5FF&center=true&vCenter=true&width=500&lines=SQbey+Presents...;Kali+Linux+User;Developer+%7C+Cyber+Enthusiast" />
 </h3>
 
 ---
 
-### 👤 Profile
+### 🚀 About Me
 <p align="center">
-  <img src="https://github.com/SQbey.png" width="110" style="border-radius:50%" />
+  <img src="https://github.com/SQbey.png" width="100" style="border-radius:50%" />
 </p>
 
----
-
-### 🚀 About Me
-- 💻 Developer & Bot Systems  
-- 🐧 Kali Linux User  
-- 🔒 Cyber Security Interested  
-- 🌐 Owner @ ElitClub  
+<p align="center">
+💻 Developer & Bot Systems <br>
+🐧 Kali Linux User <br>
+🔒 Cyber Security Interested <br>
+🌐 Owner @ ElitClub
+</p>
 
 ---
 
@@ -39,15 +38,6 @@
 
 ---
 
-### 💬 Discord
-<p align="center">
-  <a href="https://discord.gg/elitclub">
-    <img src="https://img.shields.io/badge/Join%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-</p>
-
----
-
 ### 🧰 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,lua,linux,php,mysql" />
@@ -57,9 +47,9 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SQbey&show_icons=true&theme=tokyonight&hide_border=true" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SQbey&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="400"/>
   <br/>
-  <img src="https://streak-stats.demolab.com?user=SQbey&theme=tokyonight&hide_border=true" width="450"/>
+  <img src="https://streak-stats.demolab.com?user=SQbey&theme=tokyonight&hide_border=true" width="400"/>
 </p>
 
 ---
