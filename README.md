@@ -12,28 +12,29 @@
 
 ---
 
----
-
 ### 🌐 My Platform
+
 <p align="center">
   <a href="https://www.elitclub.store/">
-    <img src="https://img.shields.io/badge/Website-ElitClub-00E5FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Website-ElitClub-00E5FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   <a href="https://discord.gg/elitclub">
-    <img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 ### 🧰 Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,lua,linux,php,mysql" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,lua,linux,php,mysql"/>
 </p>
 
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SQbey&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="400"/>
   <br/>
@@ -43,6 +44,15 @@
 ---
 
 ### 🐍 Contribution Snake
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+<p align="center">
+  <b>💙 SQbey</b>
+  <br/>
+  Developer • Cyber Enthusiast • Linux User
 </p>
