@@ -19,7 +19,7 @@
 ```js
 const SQbey = {
   role:      "Full Stack Developer",
-  languages: ["JavaScript", "PHP", "Python", "Lua"],
+  languages: ["JavaScript", "PHP", "Python", "C++", "C#", "Lua"],
   building:  "web apps, panels and Discord tools",
   platforms: ["elitclub.store", "nyva.lol"],
   os:        "Kali Linux",
@@ -38,11 +38,15 @@ const SQbey = {
 <table align="center">
   <tr>
     <td align="center"><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=js,php,py,lua,html,css&theme=dark" alt="JavaScript, PHP, Python, Lua, HTML, CSS"/></td>
+    <td><img src="https://skillicons.dev/icons?i=js,php,py,cpp,cs,lua,html,css&theme=dark" alt="JavaScript, PHP, Python, C++, C#, Lua, HTML, CSS"/></td>
   </tr>
   <tr>
-    <td align="center"><b>Backend &amp; Data</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,mysql,discord&theme=dark" alt="Node.js, MySQL, Discord"/></td>
+    <td align="center"><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,discord&theme=dark" alt="Node.js, Discord"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Databases</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&theme=dark" alt="MySQL, MongoDB, SQLite"/></td>
   </tr>
   <tr>
     <td align="center"><b>Tools</b></td>
