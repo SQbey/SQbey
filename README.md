@@ -103,5 +103,9 @@
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/SQbey/SQbey/output/snake-dark.svg" alt="Snake eating my contribution graph" width="100%"/>
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:7C3AED,100:00E5FF&height=46&text=thanks%20for%20stopping%20by&fontSize=16&fontColor=ffffff" alt="" width="100%"/>
 </p>
