@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 300" width="840" height="300" role="img" aria-label="SQbey terminal">
+  <style>
+    .t { font: 15px 'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace; }
+    .p { fill: #7C3AED; }
+    .c { fill: #E6EDF3; }
+    .o { fill: #00E5FF; }
+    .d { fill: #8B949E; }
+    .l { opacity: 0; animation-duration: 16s; animation-iteration-count: infinite; }
+    .l1 { animation-name: a1; }
+    .l2 { animation-name: a2; }
+    .l3 { animation-name: a3; }
+    .l4 { animation-name: a4; }
+    .l5 { animation-name: a5; }
+    .l6 { animation-name: a6; }
+    .l7 { animation-name: a7; }
+    @keyframes a1 { 0%, 2% { opacity: 0; } 4%, 95% { opacity: 1; } 99%, 100% { opacity: 0; } }
+    @keyframes a2 { 0%, 8% { opacity: 0; } 10%, 95% { opacity: 1; } 99%, 100% { opacity: 0; } }
+    @keyframes a3 { 0%, 16% { opacity: 0; } 18%, 95% { opacity: 1; } 99%, 100% { opacity: 0; } }
+    @keyframes a4 { 0%, 22% { opacity: 0; } 24%, 95% { opacity: 1; } 99%, 100% { opacity: 0; } }
+    @keyframes a5 { 0%, 30% { opacity: 0; } 32%, 95% { opacity: 1; } 99%, 100% { opacity: 0; } }
+    @keyframes a6 { 0%, 36% { opacity: 0; } 38%, 95% { opacity: 1; } 99%, 100% { opacity: 0; } }
+    @keyframes a7 { 0%, 44% { opacity: 0; } 46%, 95% { opacity: 1; } 99%, 100% { opacity: 0; } }
+    .cur { fill: #00E5FF; animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+
+  <rect width="840" height="300" rx="14" fill="#0D1117"/>
+  <path d="M0 14 A14 14 0 0 1 14 0 H826 A14 14 0 0 1 840 14 V38 H0 Z" fill="#161B22"/>
+  <circle cx="24" cy="19" r="6" fill="#FF5F56"/>
+  <circle cx="44" cy="19" r="6" fill="#FFBD2E"/>
+  <circle cx="64" cy="19" r="6" fill="#27C93F"/>
+  <text x="420" y="24" text-anchor="middle" class="t d" style="font-size:13px">sqbey@kali: ~</text>
+  <rect x="0.5" y="0.5" width="839" height="299" rx="14" fill="none" stroke="#30363D"/>
+
+  <g class="t" xml:space="preserve">
+    <text class="l l1" x="24" y="74"><tspan class="p">sqbey@kali</tspan><tspan class="d">:~$ </tspan><tspan class="c">whoami</tspan></text>
+    <text class="l l2 o" x="24" y="100">sqbey  //  full stack developer</text>
+
+    <text class="l l3" x="24" y="138"><tspan class="p">sqbey@kali</tspan><tspan class="d">:~$ </tspan><tspan class="c">ls ~/skills</tspan></text>
+    <text class="l l4 o" x="24" y="164">javascript   php   python   c++   c#   lua</text>
+
+    <text class="l l5" x="24" y="202"><tspan class="p">sqbey@kali</tspan><tspan class="d">:~$ </tspan><tspan class="c">ls ~/sites</tspan></text>
+    <text class="l l6 o" x="24" y="228">elitclub.store   nyva.lol</text>
+
+    <g class="l l7">
+      <text x="24" y="266"><tspan class="p">sqbey@kali</tspan><tspan class="d">:~$ </tspan></text>
+      <rect class="cur" x="154" y="252" width="9" height="18"/>
+    </g>
+  </g>
+</svg>
